@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(98, 97, 97, 0.581);
+}
+.Bhead{
+    margin: 40px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.Bimg{
+    display: block;
+    margin: 10px,auto;
+}
+background-color: rgb(152, 251, 152);
