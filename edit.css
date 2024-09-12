@@ -9,5 +9,9 @@ body{
 .Bimg{
     display: block;
     margin: 10px,auto;
+    width: 200px;
+    height: 200px;
+   
 }
+
 background-color: rgb(152, 251, 152);
